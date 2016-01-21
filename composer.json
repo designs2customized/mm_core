@@ -1,0 +1,30 @@
+{
+    "name": "designs2customized/mm_core",
+    "type": "library",
+    "description": "d2c metamodels",
+    "keywords": ["d2c","d2c_metamodels"],
+    "homepage": "https://github.com/designs2customized/mm_core",
+    "license": "LGPG",
+    "authors": [
+        {
+            "name": "MetaModels Team",
+            "email": "mail@metamodel.me",
+            "homepage": "https://now.metamodel.me",
+            "role": "Developer"
+        },
+         {
+            "name": "designs2 | Monique Hahnefeld",
+            "email": "mhahnefeld@designs2.de",
+            "homepage": "http://designs2.de",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "d2c_metamodels": "src"
+        }
+    }
+}
