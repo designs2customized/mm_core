@@ -2,7 +2,7 @@
     "name": "designs2customized/mm_core",
     "type": "library",
     "description": "d2c metamodels",
-    "keywords": ["d2c","d2c_metamodels"],
+    "keywords": ["d2c","d2c_metamodels","d2c_mm_core"],
     "homepage": "https://github.com/designs2customized/mm_core",
     "license": "LGPG",
     "authors": [
